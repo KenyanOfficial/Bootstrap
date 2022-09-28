@@ -67,8 +67,8 @@ We are very excited to share this dashboard with you and we look forward to hear
 ## Quick start
 
 - `npm i material-dashboard`
-- Clone the repo: `git clone https://github.com/creativetimofficial/material-dashboard.git`.
-- [Download from Github](https://github.com/creativetimofficial/material-dashboard/archive/master.zip).
+- Clone the repo: `git clone https://github.com/KenyanOfficial/Bootstrap.git`.
+- [Download from Github](https://github.com/KenyanOfficial/Bootstrap/archive.zip).
 - [Download from Creative Tim](https://www.creative-tim.com/product/material-dashboard).
 
 
@@ -143,7 +143,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 - Copyright 2021 Creative Tim (https://www.creative-tim.com/)
 
-- Licensed under MIT (https://github.com/creativetimofficial/material-dashboard/blob/master/LICENSE.md)
+- Licensed under MIT (https://github.com/KenyanOfficial/Bootstrap/blob/master/LICENSE.md)
 
 
 
